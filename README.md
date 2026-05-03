@@ -68,3 +68,9 @@ _This is just a demo working only with binance._
 [license-shield]: https://img.shields.io/github/license/eugenioclrc/binance-crypto-triangular-arbitrage.svg?style=for-the-badge
 [license-url]: https://github.com/eugenioclrc/binance-crypto-triangular-arbitrage/blob/master/LICENSE.txt
 [product-screenshot]: demo.png
+
+## Related links
+
+- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
+- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
+- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
